@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Blog des familles
 
-Things you may want to cover:
+Des users, des posts, des categories, des comments, des likes tout ca avec du random and fake content tu vas kiffer ;)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Mode d'emploi
+Déjà, clone ou fork my amazing repo! <br/>
+Ensuite dans ta console, va dans le dossier et lance les instructions suivantes :<br/>
+<br/>
+* `bundle install`<br/>
+* `rails db:migrate`<br/>
+* `rails db:seed`
